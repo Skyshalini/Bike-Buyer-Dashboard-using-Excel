@@ -3,8 +3,8 @@
 # Documentation: Bike Buyers Dashboard
 
 ## Introduction: 
-                The detailed documentation guides the design the process of a Google Sheets dashboard focused on analysing bike buyers's datasets.
-                The objective is to provide a deep understanding of purchasing patterns, demographics and effective marketing strategies...
+The detailed documentation guides the design of the process of a Google Sheets dashboard focused on analyzing bike buyers's datasets.
+The objective is to provide a deep understanding of purchasing patterns, demographics and effective marketing strategies...
 
 ## Dataset Overview: 
 The dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. This data can be used to build the dashboard in Google Sheets. There are some NA (Null / Empty) values injected in the dataset.
